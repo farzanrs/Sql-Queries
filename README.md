@@ -1,4 +1,4 @@
-```markdown
+
 # SQL Server Advanced Queries & Practice
 
 A comprehensive collection of SQL scripts, ranging from fundamental queries to advanced database concepts like concurrency control and procedural logic.
