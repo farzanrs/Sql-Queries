@@ -41,13 +41,27 @@ This repository serves as a portfolio of my SQL learning journey, covering T-SQL
 ----
 Maintained by Farzan Rahbar
 ----
+
+
 <img width="939" height="558" alt="Screenshot 2026-08-12 000547" src="https://github.com/user-attachments/assets/00c3c0b1-5a26-4e55-bc8e-e533e6fc08e2" />
+
+
 
 <img width="940" height="581" alt="image" src="https://github.com/user-attachments/assets/b2585ed6-42cf-4e84-9c00-d314b7b06c8a" />
 
+
+
+
 <img width="945" height="580" alt="image" src="https://github.com/user-attachments/assets/346ae0ca-b402-4a5e-a249-76aa4f57d960" />
 
+
+
+
 <img width="700" height="873" alt="image" src="https://github.com/user-attachments/assets/4981d860-2ca9-4cd8-b5cc-c150a5cc14c4" />
+
+
+
+
 
 <img width="781" height="955" alt="image" src="https://github.com/user-attachments/assets/b9687be7-b77e-4a5d-96f2-07896d563dca" />
 
